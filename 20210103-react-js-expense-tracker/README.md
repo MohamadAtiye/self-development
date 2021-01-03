@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=XuFDcZABiDQ
 started with npx create-react-app
 
 ### topics practiced here:
+React, useState, useEffect, useContext with functional components\
+vanilla javascript\
+createContext, useReducer, useContext for global state management\
 
 
 ### for deploy: 
