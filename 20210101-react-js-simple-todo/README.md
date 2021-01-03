@@ -1,9 +1,13 @@
 # Reference
 https://www.youtube.com/watch?v=sBws8MSXN7A
 
-# notes for deploy
-use <Router basename={'/react-js-todo'}>
-add "homepage": "https://mohamadatiye.com/react-js-todo" in package.json
+# Notes for project
+started with npx create-react-app
+for deploy: 
+    use <Router basename={'/react-js-todo'}>
+    add "homepage": "https://mohamadatiye.com/react-js-todo" in package.json
+    use npm run build => this generates project in the "build" folder.
+    copy contents to host (using static php host) 
 
 # Getting Started with Create React App
 
