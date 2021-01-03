@@ -3,6 +3,12 @@ https://www.youtube.com/watch?v=sBws8MSXN7A
 
 # Notes for project
 started with npx create-react-app
+topics practiced here:
+        React, useState, useEffect with functional components
+        vanilla javascript
+        BrowserRouter and Route from "react-router-dom"
+        Axion for https requests
+        API JSON dummy data from https://jsonplaceholder.typicode.com/todos
 for deploy: 
     use <Router basename={'/react-js-todo'}>
     add "homepage": "https://mohamadatiye.com/react-js-todo" in package.json
