@@ -1,3 +1,15 @@
+# Reference
+https://www.youtube.com/watch?v=XuFDcZABiDQ
+
+# Notes for project
+started with npx create-react-app
+
+### topics practiced here:
+
+
+### for deploy: 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
